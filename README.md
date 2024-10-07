@@ -1,7 +1,14 @@
 <h1 align="center">Hi I am Emir</h1>
 <h3 align="center">hey</h3>
 
-![dota2-slark](https://github.com/user-attachments/assets/4c2a6073-b0aa-4c68-895e-1197583bbd48)
+![arthas](https://github.com/user-attachments/assets/6b114d2b-7ddf-4450-ab9f-e71eefb59967) ![wowcan](https://github.com/user-attachments/assets/4f841adc-f1e4-49e5-ace5-4233b4cbd804)
+
+
+![dota2-slark](https://github.com/user-attachments/assets/4c2a6073-b0aa-4c68-895e-1197583bbd48) ![dota2can](https://github.com/user-attachments/assets/45d981e2-fd71-4fe8-9992-5feaf375da46)
+
+
+![volibear](https://github.com/user-attachments/assets/a64bd390-ed44-4399-9df9-e01fd2daa3bb) ![lol](https://github.com/user-attachments/assets/fa301eff-7b55-42c3-a58a-6937e14076e1)
+
 
 
 <h3 align="left">Connect with me:</h3>

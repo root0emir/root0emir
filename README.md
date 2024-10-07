@@ -1,7 +1,7 @@
 <h1 align="center">Hi I am Emir</h1>
 <h3 align="center">hey</h3>
 
-![arthas](https://github.com/user-attachments/assets/6b114d2b-7ddf-4450-ab9f-e71eefb59967)
+![illidan](https://github.com/user-attachments/assets/48dd82ff-0e0c-42c3-9b96-eaaf54285afe)
 
 ![dota2-slark](https://github.com/user-attachments/assets/4c2a6073-b0aa-4c68-895e-1197583bbd48) 
 

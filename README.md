@@ -1,5 +1,5 @@
 <h1 align="center">Hi I am Emir</h1>
-<h3 align="center">System Security, Network Security, Social Media Security and Web Security</h3>
+<h3 align="center">hey</h3>
 
 ![dota2-slark](https://github.com/user-attachments/assets/4c2a6073-b0aa-4c68-895e-1197583bbd48)
 

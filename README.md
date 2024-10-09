@@ -1,5 +1,5 @@
 <h1 align="center">Hi I am Emir</h1>
-<h3 align="center">hey</h3>
+<h3 align="center">I am continuously improving myself in the field of Cybersecurity. I possess advanced knowledge in Networking and Network Attacks, as well as in System Security, Web Security, Phishing Attacks, and Viruses. I can identify vulnerabilities in websites using the correct tools and methods, and I am capable of conducting penetration tests. Currently, I am working on CTF (Capture the Flag) challenges and Networking</h3>
 
 ![illidan](https://github.com/user-attachments/assets/48dd82ff-0e0c-42c3-9b96-eaaf54285afe)
 

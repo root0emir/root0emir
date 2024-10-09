@@ -2,15 +2,8 @@
 <h3 align="center">I am a dedicated Cybersecurity professional continuously advancing my skills in various domains. With expertise in Network Security and Advanced Network Attacks, I also have in-depth knowledge of System Security, Web Security, Phishing Attacks, and Malware. I excel in identifying and mitigating vulnerabilities in websites through the use of appropriate tools and methodologies. Additionally, I have strong proficiency in conducting penetration tests. Currently, I am focused on solving CTF (Capture the Flag) challenges and deepening my expertise in Networking.</h3>
 
 ![illidan](https://github.com/user-attachments/assets/48dd82ff-0e0c-42c3-9b96-eaaf54285afe)
-
 ![dota2-slark](https://github.com/user-attachments/assets/4c2a6073-b0aa-4c68-895e-1197583bbd48) 
-
 ![volibear](https://github.com/user-attachments/assets/a64bd390-ed44-4399-9df9-e01fd2daa3bb) 
-
-
-https://github.com/user-attachments/assets/b78a4887-85eb-4081-b679-e09671cb5471
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

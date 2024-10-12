@@ -2,6 +2,7 @@
 <h3 align="center">I am a dedicated Cybersecurity professional continuously advancing my skills in various domains. With expertise in Network Security and Advanced Network Attacks, I also have in-depth knowledge of System Security, Web Security, Phishing Attacks, and Malware. I excel in identifying and mitigating vulnerabilities in websites through the use of appropriate tools and methodologies. Additionally, I have strong proficiency in conducting penetration tests. Currently, I am focused on solving CTF (Capture the Flag) challenges and deepening my expertise in Networking.</h3>
 
 ![draven](https://github.com/user-attachments/assets/58f4d766-1e56-40f3-9edb-da6cb97a90c0)
+![draven2](https://github.com/user-attachments/assets/840fdcf9-f753-4681-9609-4edfd8c773dc)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

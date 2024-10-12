@@ -5,7 +5,8 @@
 ![illidan](https://github.com/user-attachments/assets/a42b7037-ad0c-4ef1-8721-3eff99d26fd5)
 ![volibear](https://github.com/user-attachments/assets/30578318-7428-4bf1-a391-cfb6e2456781)
 ![dota2-slark](https://github.com/user-attachments/assets/104de0a2-54f2-4b1e-92e1-81d19d732d44)
-![pcuk](https://github.com/user-attachments/assets/6d6d3877-072f-44cb-af0d-0d28407c3e6d)
+![puck-dota2](https://github.com/user-attachments/assets/df13b2f9-2877-40cf-9a0b-367535d51e2c)
+
 
 
 

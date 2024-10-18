@@ -1,5 +1,9 @@
 <h1 align="center">Hi I am Emir</h1>
-<h3 align="center">I am a dedicated Cybersecurity professional continuously advancing my skills in various domains. With expertise in Network Security and Advanced Network Attacks, I also have in-depth knowledge of System Security, Web Security, Phishing Attacks, and Malware. I excel in identifying and mitigating vulnerabilities in websites through the use of appropriate tools and methodologies. Additionally, I have strong proficiency in conducting penetration tests. Currently, I am focused on solving CTF (Capture the Flag) challenges and deepening my expertise in Networking.</h3>
+<h3 align="center">I am continually developing my skills in the field of cybersecurity, with a primary focus on network and system security. However, I also have substantial knowledge in areas such as web security, viruses, data analysis, information gathering, privacy, social engineering, password attacks, and phishing attacks. To perform security tests and scans, I typically use the following tools: Metasploitable, Lynis, Nessus, Arachni, Commix, Burp Suite, DirBuster, Wireshark, Nmap, XSStrike, SQLMap, Maltego, Aircrack-ng, Airgeddon, John the Ripper, Hydra, and Yersinia.
+
+In addition to my practical experience, I have proficiency in Python, HTML5, CSS, C#, and JavaScript. I can also develop security tools using Python.
+
+Furthermore, I generally use Kali Linux and Fedora Security Lab, but I have also mastered Parrot OS, BlackArch Linux, and BackBox.</h3>
 
 ![draven](https://github.com/user-attachments/assets/58f4d766-1e56-40f3-9edb-da6cb97a90c0)
 ![illidan](https://github.com/user-attachments/assets/a42b7037-ad0c-4ef1-8721-3eff99d26fd5)

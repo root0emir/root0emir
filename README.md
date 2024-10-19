@@ -10,6 +10,29 @@ Furthermore, I generally use Kali Linux and Fedora Security Lab, but I have also
 ![volibear](https://github.com/user-attachments/assets/30578318-7428-4bf1-a391-cfb6e2456781)
 ![dota2-slark](https://github.com/user-attachments/assets/104de0a2-54f2-4b1e-92e1-81d19d732d44)
 ![puck-dota2](https://github.com/user-attachments/assets/df13b2f9-2877-40cf-9a0b-367535d51e2c)
+![brlistleback](https://github.com/user-attachments/assets/8db35df4-db22-4890-ae2f-f00a130f6936)
+![phantom](https://github.com/user-attachments/assets/bfde48d2-6806-46a8-a033-d8967c45dd12)
+![edo](https://github.com/user-attachments/assets/909aff06-31a5-4bc8-9ae4-2ec0250b6a9f)
+![urgotbaron](https://github.com/user-attachments/assets/aca6b5a9-a9f1-400c-85b1-1a42172de0ed)
+![Katarina_0](https://github.com/user-attachments/assets/14674343-5541-402c-afe7-753346bd8064)
+![beştbeş](https://github.com/user-attachments/assets/eef7a6d8-975d-4dab-91ab-cf15febea2e6)
+![guildwars2](https://github.com/user-attachments/assets/c8071983-4d2b-4fe2-8ea6-4aff31bbb4ec)
+![bgyroblox](https://github.com/user-attachments/assets/4b6932a4-4acd-4525-800d-68b478184393)
+![doughh](https://github.com/user-attachments/assets/fc1f782c-7845-4880-bcdc-cb71cee8822f)
+![mamm](https://github.com/user-attachments/assets/4fd24443-0d15-4a79-b5f4-5dd3af8d048e)
+![KitsuneFruitGIF](https://github.com/user-attachments/assets/558cddeb-2cde-40a0-8aad-b6714cea9c30)
+![wowçarım1](https://github.com/user-attachments/assets/a5630aad-5c5d-441c-a524-ebd0ef5f29e8)
+![wowçarım2](https://github.com/user-attachments/assets/4665e1cd-9df9-4d6a-8ed1-2a27668c48e7)
+![arthass](https://github.com/user-attachments/assets/122fdbb9-795b-43dc-a168-c5a6647da761)
+![roadhog](https://github.com/user-attachments/assets/add2e8a3-0e05-456b-bd59-ee24fd9c4777)
+![widowmaker](https://github.com/user-attachments/assets/ff738b7d-8e6c-4d71-abd3-b30a0933540f)
+![ramattra](https://github.com/user-attachments/assets/7590f52c-ecd7-442c-82a7-497a4f2ba234)
+![sigma](https://github.com/user-attachments/assets/e907645a-b176-49a7-a561-b19a76189911)
+![mpvvv](https://github.com/user-attachments/assets/b48dddfb-d81e-4a70-88c6-c476295711cf)
+![valera](https://github.com/user-attachments/assets/44623bd4-b57c-4d09-98d8-fa2cdae96809)
+
+
+
 
 
 

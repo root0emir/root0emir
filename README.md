@@ -32,6 +32,8 @@ Furthermore, I generally use Kali Linux and Fedora Security Lab, but I have also
 ![valera](https://github.com/user-attachments/assets/44623bd4-b57c-4d09-98d8-fa2cdae96809)
 ![mvpgit](https://github.com/user-attachments/assets/e1e665b4-cccb-4785-a792-e73274aa588d)
 ![gitt2](https://github.com/user-attachments/assets/43506cf8-1a71-4ad4-b922-1f95a9195602)
+![gddd](https://github.com/user-attachments/assets/6c5a5a52-49f2-4641-909b-683435d12a71)
+
 
 
 

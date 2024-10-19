@@ -16,7 +16,7 @@ Furthermore, I generally use Kali Linux and Fedora Security Lab, but I have also
 ![urgotbaron](https://github.com/user-attachments/assets/aca6b5a9-a9f1-400c-85b1-1a42172de0ed)
 ![Katarina_0](https://github.com/user-attachments/assets/14674343-5541-402c-afe7-753346bd8064)
 ![beştbeş](https://github.com/user-attachments/assets/eef7a6d8-975d-4dab-91ab-cf15febea2e6)
-![guildwars2](https://github.com/user-attachments/assets/c8071983-4d2b-4fe2-8ea6-4aff31bbb4ec)
+![fortnite](https://github.com/user-attachments/assets/b1f27600-f775-4a0e-8bd4-ae3a924acb1f)
 ![bgyroblox](https://github.com/user-attachments/assets/4b6932a4-4acd-4525-800d-68b478184393)
 ![doughh](https://github.com/user-attachments/assets/fc1f782c-7845-4880-bcdc-cb71cee8822f)
 ![mamm](https://github.com/user-attachments/assets/4fd24443-0d15-4a79-b5f4-5dd3af8d048e)
@@ -28,8 +28,11 @@ Furthermore, I generally use Kali Linux and Fedora Security Lab, but I have also
 ![widowmaker](https://github.com/user-attachments/assets/ff738b7d-8e6c-4d71-abd3-b30a0933540f)
 ![ramattra](https://github.com/user-attachments/assets/7590f52c-ecd7-442c-82a7-497a4f2ba234)
 ![sigma](https://github.com/user-attachments/assets/e907645a-b176-49a7-a561-b19a76189911)
-![mpvvv](https://github.com/user-attachments/assets/b48dddfb-d81e-4a70-88c6-c476295711cf)
+![vale2](https://github.com/user-attachments/assets/97c24fd6-d907-46c4-8a40-bb521c8e28fb)
 ![valera](https://github.com/user-attachments/assets/44623bd4-b57c-4d09-98d8-fa2cdae96809)
+![mvpgit](https://github.com/user-attachments/assets/e1e665b4-cccb-4785-a792-e73274aa588d)
+![gitt2](https://github.com/user-attachments/assets/43506cf8-1a71-4ad4-b922-1f95a9195602)
+
 
 
 

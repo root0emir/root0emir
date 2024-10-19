@@ -12,8 +12,6 @@ Furthermore, I generally use Kali Linux and Fedora Security Lab, but I have also
 ![puck-dota2](https://github.com/user-attachments/assets/df13b2f9-2877-40cf-9a0b-367535d51e2c)
 ![brlistleback](https://github.com/user-attachments/assets/8db35df4-db22-4890-ae2f-f00a130f6936)
 ![phantom](https://github.com/user-attachments/assets/bfde48d2-6806-46a8-a033-d8967c45dd12)
-![silencerrr](https://github.com/user-attachments/assets/dadbb6d3-60b6-4f19-a91b-43977e0794b5)
-![silencer](https://github.com/user-attachments/assets/5737d691-0ca6-4a80-897a-ef8e2dbd78a3)
 ![edo](https://github.com/user-attachments/assets/909aff06-31a5-4bc8-9ae4-2ec0250b6a9f)
 ![urgotbaron](https://github.com/user-attachments/assets/aca6b5a9-a9f1-400c-85b1-1a42172de0ed) 
 ![Katarina_0](https://github.com/user-attachments/assets/d235c454-110f-4e30-aac1-0d262ae04e2f)
@@ -34,8 +32,7 @@ Furthermore, I generally use Kali Linux and Fedora Security Lab, but I have also
 ![gitt2](https://github.com/user-attachments/assets/43506cf8-1a71-4ad4-b922-1f95a9195602)
 ![gddd](https://github.com/user-attachments/assets/6c5a5a52-49f2-4641-909b-683435d12a71)
 ![metin2](https://github.com/user-attachments/assets/01c157a7-e7bd-4088-a409-25b82dd96e1b)
-
-
+![silencer](https://github.com/user-attachments/assets/5737d691-0ca6-4a80-897a-ef8e2dbd78a3)
 
 
 

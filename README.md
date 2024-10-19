@@ -18,7 +18,6 @@ Furthermore, I generally use Kali Linux and Fedora Security Lab, but I have also
 ![urgotbaron](https://github.com/user-attachments/assets/aca6b5a9-a9f1-400c-85b1-1a42172de0ed) 
 ![Katarina_0](https://github.com/user-attachments/assets/d235c454-110f-4e30-aac1-0d262ae04e2f)
 ![beştbeş](https://github.com/user-attachments/assets/eef7a6d8-975d-4dab-91ab-cf15febea2e6)
-![fortnite](https://github.com/user-attachments/assets/b1f27600-f775-4a0e-8bd4-ae3a924acb1f)
 ![bgyroblox](https://github.com/user-attachments/assets/4b6932a4-4acd-4525-800d-68b478184393)
 ![doughh](https://github.com/user-attachments/assets/fc1f782c-7845-4880-bcdc-cb71cee8822f)
 ![mamm](https://github.com/user-attachments/assets/4fd24443-0d15-4a79-b5f4-5dd3af8d048e)

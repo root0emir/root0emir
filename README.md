@@ -30,7 +30,6 @@ Furthermore, I generally use Kali Linux and Fedora Security Lab, but I have also
 ![widowmaker](https://github.com/user-attachments/assets/ff738b7d-8e6c-4d71-abd3-b30a0933540f)
 ![ramattra](https://github.com/user-attachments/assets/7590f52c-ecd7-442c-82a7-497a4f2ba234)
 ![sigma](https://github.com/user-attachments/assets/e907645a-b176-49a7-a561-b19a76189911)
-![vale2](https://github.com/user-attachments/assets/97c24fd6-d907-46c4-8a40-bb521c8e28fb)
 ![valera](https://github.com/user-attachments/assets/44623bd4-b57c-4d09-98d8-fa2cdae96809)
 ![mvpgit](https://github.com/user-attachments/assets/e1e665b4-cccb-4785-a792-e73274aa588d)
 ![gitt2](https://github.com/user-attachments/assets/43506cf8-1a71-4ad4-b922-1f95a9195602)

@@ -7,12 +7,11 @@ Furthermore, I generally use Kali Linux and Fedora Security Lab, but I have also
 
 ![draven](https://github.com/user-attachments/assets/58f4d766-1e56-40f3-9edb-da6cb97a90c0)
 ![illidan](https://github.com/user-attachments/assets/a42b7037-ad0c-4ef1-8721-3eff99d26fd5)
-![volibear](https://github.com/user-attachments/assets/30578318-7428-4bf1-a391-cfb6e2456781)
 ![dota2-slark](https://github.com/user-attachments/assets/104de0a2-54f2-4b1e-92e1-81d19d732d44)
 ![puck-dota2](https://github.com/user-attachments/assets/df13b2f9-2877-40cf-9a0b-367535d51e2c)
 ![brlistleback](https://github.com/user-attachments/assets/8db35df4-db22-4890-ae2f-f00a130f6936)
 ![phantom](https://github.com/user-attachments/assets/bfde48d2-6806-46a8-a033-d8967c45dd12)
-![silencer](https://github.com/user-attachments/assets/5737d691-0ca6-4a80-897a-ef8e2dbd78a3)
+
 
 
 

@@ -10,7 +10,7 @@ Furthermore, I generally use Kali Linux and Fedora Security Lab, but I have also
 ![dota2-slark](https://github.com/user-attachments/assets/104de0a2-54f2-4b1e-92e1-81d19d732d44)
 ![puck-dota2](https://github.com/user-attachments/assets/df13b2f9-2877-40cf-9a0b-367535d51e2c)
 ![brlistleback](https://github.com/user-attachments/assets/8db35df4-db22-4890-ae2f-f00a130f6936)
-![phantom](https://github.com/user-attachments/assets/bfde48d2-6806-46a8-a033-d8967c45dd12)
+
 
 
 

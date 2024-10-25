@@ -6,10 +6,6 @@ In addition to my practical experience, I have proficiency in Python, HTML5, CSS
 Furthermore, I generally use Kali Linux and Fedora Security Lab, but I have also mastered Parrot OS, BlackArch Linux, and BackBox.</h3>
 
 ![draven](https://github.com/user-attachments/assets/58f4d766-1e56-40f3-9edb-da6cb97a90c0)
-![illidan](https://github.com/user-attachments/assets/a42b7037-ad0c-4ef1-8721-3eff99d26fd5)
-![dota2-slark](https://github.com/user-attachments/assets/104de0a2-54f2-4b1e-92e1-81d19d732d44)
-![puck-dota2](https://github.com/user-attachments/assets/df13b2f9-2877-40cf-9a0b-367535d51e2c)
-![brlistleback](https://github.com/user-attachments/assets/8db35df4-db22-4890-ae2f-f00a130f6936)
 
 
 

@@ -5,16 +5,6 @@ In addition to my practical experience, I have proficiency in Python, HTML5, CSS
 
 Furthermore, I generally use Kali Linux and Fedora Security Lab, but I have also mastered Parrot OS, BlackArch Linux, and BackBox.</h3>
 
-![draven](https://github.com/user-attachments/assets/58f4d766-1e56-40f3-9edb-da6cb97a90c0)
-
-
-
-
-
-
-
-
-
 
 
 <h3 align="left">Connect with me:</h3>

@@ -1,4 +1,3 @@
 
-
-https://github.com/user-attachments/assets/010e70ca-6711-4f69-827e-5256e025dd6f
+![linuxpropaganda](https://github.com/user-attachments/assets/cfa94872-6077-43af-bcf1-a4eca56cc7d6)
 

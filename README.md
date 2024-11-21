@@ -1,2 +1,4 @@
 
-![bilmem](https://github.com/user-attachments/assets/269bce87-aaa6-4b92-b4f2-fb8d45cb2a17)
+
+https://github.com/user-attachments/assets/010e70ca-6711-4f69-827e-5256e025dd6f
+

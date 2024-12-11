@@ -86,7 +86,7 @@
 
 ###
 
-<p align="left">sudo su </p>
+<p align="left">"The quieter you become, the more you are able to hear" </p>
 
 ###
 

@@ -104,7 +104,7 @@
 ###
 
 
-![ssstik io_gh0stn4444_1733910193655 (1)](https://github.com/user-attachments/assets/0cac85ff-c5db-454d-ae89-9a476046df81) <img align="right" height="325" src="https://preview.redd.it/da9iu0o4fzc71.jpg?auto=webp&s=6aa7a51c60cce4be5f3245bc3336d84d757008dc"  />
+![ssstik io_gh0stn4444_1733910193655 (1)](https://github.com/user-attachments/assets/0cac85ff-c5db-454d-ae89-9a476046df81) <img align="right" height="250" src="https://preview.redd.it/da9iu0o4fzc71.jpg?auto=webp&s=6aa7a51c60cce4be5f3245bc3336d84d757008dc"  />
 
 
 ###

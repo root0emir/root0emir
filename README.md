@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Emir and I'm a cyber security analyst, from Turkiye </h2>
 
 ###
 
@@ -104,7 +104,6 @@
 ###
 
 
-  ![ssstik io_gh0stn4444_1733910193655 (1)](https://github.com/user-attachments/assets/0cac85ff-c5db-454d-ae89-9a476046df81)
-
+![ssstik io_gh0stn4444_1733910193655 (1)](https://github.com/user-attachments/assets/0cac85ff-c5db-454d-ae89-9a476046df81)
 
 ###

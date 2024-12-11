@@ -1,4 +1,11 @@
-<h2 align="left">Hi 👋! My name is Emir and I'm a cyber security analyst, from Turkey </h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=root0emir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=root0emir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -73,14 +80,29 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/root0emir/root0emir/output/snake.svg" alt="Snake animation" />
+
+###
+
 <p align="left">Hello World!!</p>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/481148341148320355/6EEF94FA958AF6828B3F62E2695607189469FA04/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+  <img height="200" src="https://media3.giphy.com/media/piTF2qfkyjpG4EB5Kk/giphy.gif?cid=6c09b952cl31hq1phqttw5u240rov0s8zx2nyne3uuwspb50&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=root0emir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=root0emir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
+###
+
+<img src="https://raw.githubusercontent.com/root0emir/root0emir/output/snake.svg" alt="Snake animation" />
+
+###

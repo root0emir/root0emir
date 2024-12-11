@@ -103,6 +103,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/root0emir/root0emir/output/snake.svg" alt="Snake animation" />
+
+  ![ssstik io_gh0stn4444_1733910193655 (1)](https://github.com/user-attachments/assets/0cac85ff-c5db-454d-ae89-9a476046df81)
+
 
 ###

@@ -78,7 +78,9 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/481148341148320355/6EEF94FA958AF6828B3F62E2695607189469FA04/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 </div>
 
 ###
+
+

@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://pa1.aminoapps.com/6055/9f20dd7740a3aefafa76131bad512db3676ba6e8_hq.gif"  />
+<img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
 ###
 
@@ -87,12 +87,12 @@
 
 ###
 
-<p align="left">"The quieter you become, the more you are able to hear" </p>
+<p align="left"> hey </p>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://media3.giphy.com/media/piTF2qfkyjpG4EB5Kk/giphy.gif?cid=6c09b952cl31hq1phqttw5u240rov0s8zx2nyne3uuwspb50&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
+  <img height="200" src="https://www.redhat.com/rhdc/managed-files/RH_OpenTech.gif"  />
 </div>
 
 ###

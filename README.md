@@ -8,6 +8,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=root0emir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<h3>I am currently learning and working on Red Hat Enterprise Linux, CentOS, Ansible, Bash, Python, and Docker. Passionate about system administration, automation, and containerization.</h3>
+
+<h4>In addition, I have advanced-level expertise in cybersecurity. Tools and skills I have experience with include: Metasploit, Wireshark, Burp Suite, SQLMap, Nessus, Aircrack-ng, Hydra, John the Ripper, and more.</h4>
+
+
+
+
 ###
 
 <img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />

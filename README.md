@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Emir and I'm a Linux System Administrator from Turkey</h2>
+<h2 align="left">Hi 👋! My name is Emir </h2>
 
 
 ###

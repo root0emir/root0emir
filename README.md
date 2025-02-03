@@ -8,9 +8,33 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=root0emir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<h3>I am currently learning and working on Red Hat Enterprise Linux, CentOS, Ubuntu, Ansible, Bash, Python, and Docker. Passionate about system administration, automation, and containerization.</h3>
+**Hi, I'm Emir.**  
+I specialize in system and network engineering while actively working on software development and cybersecurity.
 
-<h4>In addition, I have advanced-level expertise in cybersecurity. Tools and skills I have experience with include: Metasploit, Wireshark, Burp Suite, SQLMap, Nessus, Aircrack-ng, Hydra, John the Ripper, and more.</h4>
+🔧 **Languages/Tools I Use and Learn:**  
+- **Python**: Writing powerful scripts for automation and system management.  
+- **Ansible**: Actively using for server automation and configuration management.  
+- **Shell/Bash**: Advanced usage for daily management tasks and scripting.  
+- **Docker**: Experienced in application containerization and deployment processes.  
+- **C & Go**: Used in performance-focused software development and OS projects.
+
+🌐 **Fields I Work In:**  
+- **System Engineering**: Configuration, optimization, and management of Linux-based systems.  
+- **Network Engineering**: Network configurations and security-focused solutions.  
+- **Operating System Development**: Building custom Linux distributions using live-build and C.  
+- **Cybersecurity**: Basic knowledge integrated with system management for secure setups.
+
+💻 **Operating Systems I Use at an Advanced Level:**  
+- **Debian/Ubuntu**  
+- **Red Hat/CentOS/Fedora**  
+- **OpenBSD, FreeBSD, NetBSD**
+
+🔒 **Privacy & Security Interests:**  
+Working on anonymity-focused network solutions like Tor and I2P. Continuously exploring new methods to enhance privacy in my systems.
+
+🚀 **About Me:**  
+I'm constantly developing my skills in server management, automation, and network engineering. At the same time, I focus on operating system development, growing my personal projects. My goal is to create robust and reliable system solutions.
+
 
 
 

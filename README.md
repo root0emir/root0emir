@@ -8,40 +8,41 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=root0emir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-**Hi, I'm Emir.**  
-I specialize in system and network engineering while actively working on software development and cybersecurity.
+# Hi, I'm Emir 👋
 
-🔧 **Languages/Tools I Use and Learn:**  
-- **Python**: Writing powerful scripts for automation and system management.  
-- **Ansible**: Actively using for server automation and configuration management.  
-- **Shell/Bash**: Advanced usage for daily management tasks and scripting.  
-- **Docker**: Experienced in application containerization and deployment processes.  
-- **C & Go**: Used in performance-focused software development and OS projects.
+I'm a System and Network Specialist with a strong focus on Linux-based infrastructures, automation, and security. My expertise lies in system administration, network security, and Linux distribution development, where I continuously refine my skills and explore new technologies.
 
-🌐 **Fields I Work In:**  
-- **System Engineering**: Configuration, optimization, and management of Linux-based systems.  
-- **Network Engineering**: Network configurations and security-focused solutions.  
-- **Operating System Development**: Building custom Linux distributions using live-build and C.  
-- **Cybersecurity**: Basic knowledge integrated with system management for secure setups.
+## 🔧 Languages & Tools I Use and Learn
+- **Python** – Writing automation scripts and system management tools.
+- **Ansible** – Server automation and configuration management (currently learning).
+- **Shell/Bash** – Advanced scripting for system administration and automation.
+- **Docker** – Containerized deployments and microservices.
+- **C & Go** – Low-level programming for performance-driven applications and system tools.
 
-💻 **Operating Systems I Use at an Advanced Level:**  
-- **Debian/Ubuntu**  
-- **Red Hat/CentOS/Fedora**  
-- **OpenBSD, FreeBSD, NetBSD**
+## 🌐 Fields of Expertise
+- **System Administration** – Deploying, optimizing, and securing Linux infrastructures.
+- **Network Administration** – Configuring and managing network infrastructures with security best practices.
+- **System & Network Security** – Implementing hardening techniques, firewalls, and intrusion prevention systems.
+- **Linux Distribution Development** – Building and maintaining custom Linux distributions (currently developing Securonis GNU/Linux).
 
-🔒 **Privacy & Security Interests:**  
-Working on anonymity-focused network solutions like Tor and I2P. Continuously exploring new methods to enhance privacy in my systems.
+## 💻 Operating Systems I Use
+- **Daily Driver:** Arch Linux
+- **Professional Use:** Debian, Ubuntu, Red Hat, Fedora
+- **Security & Research:** OpenBSD, FreeBSD, NetBSD
 
-🚀 **About Me:**  
-I'm constantly developing my skills in server management, automation, and network engineering. At the same time, I focus on operating system development, growing my personal projects. My goal is to create robust and reliable system solutions.
+## 🔒 Privacy & Security Interests
+I actively work on system and network security, focusing on hardened Linux environments and secure infrastructure designs. My research also extends to privacy-enhancing technologies such as Tor, I2P, and decentralized solutions.
 
+## 🚀 About Me
+I'm passionate about Linux, BSD, and automation—always seeking new ways to optimize and secure infrastructure. Currently, I'm developing **Securonis GNU/Linux**, a security-focused distribution, while deepening my expertise in **Ansible** for infrastructure automation.
 
+Beyond my core work, I closely follow advancements in **Bitcoin, Artificial Intelligence,** and **decentralized technologies**, believing in the power of open-source and innovation. My goal is to build robust, efficient, and secure systems that push the boundaries of modern infrastructure.
 
 
 
 ###
 
-<img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+<img align="right" height="150" src="https://media.tenor.com/y-cCxl8uEw0AAAAM/yetopen.gif"  />
 
 ###
 

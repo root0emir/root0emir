@@ -38,6 +38,7 @@ I'm passionate about Linux, BSD, and automation—always seeking new ways to opt
 
 Beyond my core work, I closely follow advancements in **Bitcoin, Artificial Intelligence,** and **decentralized technologies**, believing in the power of open-source and innovation. My goal is to build robust, efficient, and secure systems that push the boundaries of modern infrastructure.
 
+Contact with me: root0emir@protonmail.com
 
 
 ###

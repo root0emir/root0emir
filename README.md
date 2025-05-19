@@ -8,6 +8,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=root0emir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+![Ekran görüntüsü 2025-05-19 130711](https://github.com/user-attachments/assets/907a7a33-2972-4157-87d8-a2ae0d0169df)
+
 # Hi, I'm Emir 👋
 
 I'm a System and Network Specialist with a strong focus on Linux-based infrastructures, automation, and security. My expertise lies in system administration, network security, and Linux distribution development, where I continuously refine my skills and explore new technologies.

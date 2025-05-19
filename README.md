@@ -8,7 +8,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=root0emir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-![Ekran görüntüsü 2025-05-19 130711](https://github.com/user-attachments/assets/907a7a33-2972-4157-87d8-a2ae0d0169df)
+![Ekran görüntüsü 2025-05-19 130711](https://github.com/user-attachments/assets/907a7a33-2972-4157-87d8-a2ae0d0169df) 
+![Ekran görüntüsü 2025-05-16 225351](https://github.com/user-attachments/assets/ea99b479-a455-432d-8405-ed3d9d1d2bbc)
+
+
 
 # Hi, I'm Emir 👋
 

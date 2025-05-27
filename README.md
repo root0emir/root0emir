@@ -49,7 +49,7 @@ Contact with me: root0emir@protonmail.com
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/y-cCxl8uEw0AAAAM/yetopen.gif"  />
+<img align="right" height="150" src="https://avatarfiles.alphacoders.com/104/104452.gif" />
 
 ###
 

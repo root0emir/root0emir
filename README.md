@@ -7,12 +7,10 @@ https://distrowatch.com/table.php?distribution=securonis
 
 Working on Securonis 3.0 🛠️:
 
-![Ekran görüntüsü 2025-06-07 131807](https://github.com/user-attachments/assets/1436c615-1c19-41f2-86be-dcb608450a8e)
+![newsec](https://github.com/user-attachments/assets/e673dc74-8852-4a74-8aed-b476152f5ad6)
+![a8ktp4w](https://github.com/user-attachments/assets/aeba7bd6-cc22-4117-8120-07ebe666b6c0)
 
---------------
 
-![Ekran görüntüsü 2025-05-21 225308](https://github.com/user-attachments/assets/d00092d7-a695-46aa-a02e-870d40797cd7)
-![Ekran görüntüsü 2025-05-19 130711](https://github.com/user-attachments/assets/907a7a33-2972-4157-87d8-a2ae0d0169df) 
 
 
 # Hi, I'm Emir 👋

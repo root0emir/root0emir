@@ -7,7 +7,8 @@ https://distrowatch.com/table.php?distribution=securonis
 
 Working on Securonis 3.0 🛠️:
 
-![newsec](https://github.com/user-attachments/assets/e673dc74-8852-4a74-8aed-b476152f5ad6)
+![newsec1](https://github.com/user-attachments/assets/9219df0a-ca37-4db4-a19c-3514c03c7f75)
+
 ![a8ktp4w](https://github.com/user-attachments/assets/aeba7bd6-cc22-4117-8120-07ebe666b6c0)
 
 

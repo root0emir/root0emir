@@ -5,9 +5,9 @@
 
 https://distrowatch.com/table.php?distribution=securonis
 
-Working on Securonis 3.0 🛠️:
 
 ![newsec1](https://github.com/user-attachments/assets/9219df0a-ca37-4db4-a19c-3514c03c7f75)
+![3 0NEW-2](https://github.com/user-attachments/assets/a109e1b7-5d2b-4e87-92d7-bd97f9ccce38)
 
 
 # Hi, I'm Emir 👋

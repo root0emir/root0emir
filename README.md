@@ -5,9 +5,9 @@
 
 https://distrowatch.com/table.php?distribution=securonis
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/453d42eb-312b-4cde-84df-9a6440b9d1f1" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/59b8b2e8-fd7b-4d9d-8fde-b853fdae8969" />
 
-![newsec1](https://github.com/user-attachments/assets/9219df0a-ca37-4db4-a19c-3514c03c7f75)
-![3 0NEW-2](https://github.com/user-attachments/assets/a109e1b7-5d2b-4e87-92d7-bd97f9ccce38)
 
 
 # Hi, I'm Emir 👋

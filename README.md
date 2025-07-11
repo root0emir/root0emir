@@ -10,35 +10,9 @@ https://distrowatch.com/table.php?distribution=securonis
 
 
 
-# Hi, I'm Emir 👋
+# Hi, I'm Emir - The developer of Securonis Linux 👋
 
-I'm a System and Network Specialist with a strong focus on Linux-based infrastructures, automation, and security. My expertise lies in system administration, network security, and Linux distribution development, where I continuously refine my skills and explore new technologies.
 
-## 🔧 Languages & Tools I Use and Learn
-- **Python** – Writing automation scripts and system management tools.
-- **Ansible** – Server automation and configuration management (currently learning).
-- **Shell/Bash** – Advanced scripting for system administration and automation.
-- **Docker** – Containerized deployments and microservices.
-- **C & Go** – Low-level programming for performance-driven applications and system tools.
-
-## 🌐 Fields of Expertise
-- **System Administration** – Deploying, optimizing, and securing Linux infrastructures.
-- **Network Administration** – Configuring and managing network infrastructures with security best practices.
-- **System & Network Security** – Implementing hardening techniques, firewalls, and intrusion prevention systems.
-- **Linux Distribution Development** – Building and maintaining custom Linux distributions (currently developing Securonis GNU/Linux).
-
-## 💻 Operating Systems I Use
-- **Daily Driver:** Arch Linux
-- **Professional Use:** Debian, Ubuntu, Red Hat, Fedora
-- **Security & Research:** OpenBSD, FreeBSD, NetBSD
-
-## 🔒 Privacy & Security Interests
-I actively work on system and network security, focusing on hardened Linux environments and secure infrastructure designs. My research also extends to privacy-enhancing technologies such as Tor, I2P, and decentralized solutions.
-
-## 🚀 About Me
-I'm passionate about Linux, BSD, and automation—always seeking new ways to optimize and secure infrastructure. Currently, I'm developing **Securonis GNU/Linux**, a security-focused distribution, while deepening my expertise in **Ansible** for infrastructure automation.
-
-Beyond my core work, I closely follow advancements in **Bitcoin, Artificial Intelligence,** and **decentralized technologies**, believing in the power of open-source and innovation. My goal is to build robust, efficient, and secure systems that push the boundaries of modern infrastructure.
 
 Contact with me: root0emir@protonmail.com
 

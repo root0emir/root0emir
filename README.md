@@ -12,7 +12,7 @@ Contact with me: root0emir@protonmail.com
 
 ###
 
-<img align="right" height="150" src="https://avatarfiles.alphacoders.com/104/104452.gif" />
+<img align="right" height="150" src="https://i.pinimg.com/originals/8c/40/6a/8c406ac649c611b2bbbe6387f2d7a510.gif" />
 
 ###
 

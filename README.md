@@ -3,16 +3,9 @@
 
 ###
 
-https://distrowatch.com/table.php?distribution=securonis
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/453d42eb-312b-4cde-84df-9a6440b9d1f1" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/59b8b2e8-fd7b-4d9d-8fde-b853fdae8969" />
-
-
-
 # Hi, I'm Emir - The developer of Securonis Linux 👋
 
-
+https://distrowatch.com/table.php?distribution=securonis
 
 Contact with me: root0emir@protonmail.com
 

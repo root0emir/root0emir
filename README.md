@@ -5,7 +5,7 @@
 
 # Hi, I'm Emir - The developer of Securonis Linux 👋
 
-https://distrowatch.com/table.php?distribution=securonis
+https://distrowatch.com/securonis
 
 Contact with me: root0emir@protonmail.com
 

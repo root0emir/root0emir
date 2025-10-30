@@ -3,9 +3,9 @@
 
 ###
 
-# Hi, I'm Emir - The developer of Securonis Linux 👋
+# Hi, I'm Emir - The developer of Cyrethium ( formerly Securonis )
 
-https://distrowatch.com/securonis
+https://distrowatch.com/cyrethium
 
 Contact with me: root0emir@protonmail.com
 
